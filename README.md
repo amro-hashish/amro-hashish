@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Visual CV.png" />
+  <img src="github banner.png" />
 </p>
 
 <!-- Title -->
