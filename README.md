@@ -15,9 +15,9 @@
 
 ## 🧬 About Me
 
-I am a veterinary molecular diagnostician and bioinformatics researcher specializing in molecular diagnostics, microbial genomics, pathogen surveillance, and recombinant vaccine development for infectious diseases affecting poultry health.
+I am a veterinary molecular diagnostician and bioinformatics researcher specializing in molecular diagnostics, microbial genomics, pathogen surveillance, and recombinant vaccine development for poultry infectious diseases.
 
-My work integrates wet-lab molecular biology with computational genomics to improve pathogen detection, sequencing-based diagnostics, genomic epidemiology, and translational research applications in veterinary medicine.
+My work integrates wet-lab molecular and virological techniques to improve pathogen detection, including sequencing-based diagnostics, genomic epidemiology, and translational research applications in poultry medicine.
 
 Currently focused on:
 - NGS applications in veterinary diagnostics
@@ -44,22 +44,6 @@ Currently focused on:
 
 ---
 
-## 🛠️ Technologies & Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r"/>
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/Nextflow-23AA62?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QIIME2-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Biopython-green?style=for-the-badge"/>
-
-</p>
-
----
 
 ## 🧪 Bioinformatics & Molecular Tools
 
@@ -73,31 +57,13 @@ Nanopore Sequencing • Illumina NGS • cgMLST
 
 ## 📊 Scientific Highlights
 
-- 🧬 25+ peer-reviewed publications
+- 🧬 30+ peer-reviewed publications
 - 🎤 40+ conference presentations
 - 💰 Contributor to funded research projects exceeding $1.6M
 - 🧪 Developed and validated multiple molecular diagnostic assays
 - 🐔 Specialized in poultry infectious disease genomics
 - 🧫 Experience in recombinant vector vaccine development
 - 🧬 Implemented NGS and Nanopore sequencing workflows in diagnostics
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amro-hashish&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amro-hashish&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amro-hashish/amro-hashish/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
