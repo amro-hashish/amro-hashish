@@ -1,3 +1,5 @@
+<h1 align="center">Hello, I am Dr. Amro Hashish 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=1100&lines=Veterinary+Molecular+Diagnostics+%26+Bioinformatics;Oxford+Nanopore+Sequencing+%7C+Pathogen+Genomics;AMR+%26+Microbial+Genomic+Epidemiology;Recombinant+Vector+Vaccine+Development;Founder+of+HashMolDx+%7C+Vet+Molecular+Diagnostics+Consulting;Translational+Research+for+Poultry+Health" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00C2FF&center=true&vCenter=true&width=1400&lines=Founder+of+HashMolDx+%7C+Vet+Molecular+Diagnostics+Consulting;Molecular+Diagnostics+%7C+Microbial+Genomics+%7C+Bioinformatics;NGS+Applications+in+Veterinary+Medicine;Recombinant+Vaccine+Research+%26+Development;Building+Translational+Diagnostics+for+Poultry+Health" />
 </p>
