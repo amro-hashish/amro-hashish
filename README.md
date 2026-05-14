@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" />
+  <img src="Visual CV.png" />
 </p>
 
 <!-- Title -->
